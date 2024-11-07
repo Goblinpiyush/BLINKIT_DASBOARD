@@ -14,3 +14,4 @@ To further explore insights, these KPIs are visualized across multiple dimension
 2)Total Sales by Item Type (Bar Chart): Highlights item types driving sales performance.
 3)Fat Content by Outlet for Total Sales (Stacked Column Chart): Compares sales across outlets based on fat content.
 4)Total Sales by Outlet Establishment (Line Chart): Analyzes how outlet type and age influence sales.
+
