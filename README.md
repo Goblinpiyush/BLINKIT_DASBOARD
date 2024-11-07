@@ -8,3 +8,4 @@ Total Sales by Fat Content (Donut Chart): Understanding how fat content impacts 
 Total Sales by Item Type (Bar Chart): Highlighting item types driving performance.
 Fat Content by Outlet for Total Sales (Stacked Column Chart): Comparing sales across outlets based on fat content.
 Total Sales by Outlet Establishment (Line Chart): Analyzing how outlet type and age influence sales.
+
