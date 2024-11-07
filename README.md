@@ -1,11 +1,16 @@
-An interactive Power BI dashboard built for analyzing the sales performance, customer satisfaction, and inventory distribution of Blinkit! This comprehensive analysis dives into key performance indicators (KPIs) such as:
-1️⃣ Total Sales: Measuring overall revenue generated.
-2️⃣ Average Sales: Assessing the revenue per sale.
-3️⃣ Number of Items: Total count of distinct products sold.
-4️⃣ Average Rating: Evaluating customer satisfaction through ratings.
-To further explore insights, the dashboard visualizes these KPIs across various dimensions, including:
-Total Sales by Fat Content (Donut Chart): Understanding how fat content impacts sales.
-Total Sales by Item Type (Bar Chart): Highlighting item types driving performance.
-Fat Content by Outlet for Total Sales (Stacked Column Chart): Comparing sales across outlets based on fat content.
-Total Sales by Outlet Establishment (Line Chart): Analyzing how outlet type and age influence sales.
+An interactive Power BI Dashboard built to analyze Blinkit's sales performance, customer satisfaction, and inventory distribution. This comprehensive analysis provides insights into key performance indicators (KPIs) and trends.
 
+Key Performance Indicators (KPIs)
+The dashboard tracks the following KPIs to provide a detailed view of Blinkit's performance:
+
+Total Sales: Measures the overall revenue generated.
+Average Sales: Assesses the revenue per sale.
+Number of Items Sold: Total count of distinct products sold.
+Average Rating: Evaluates customer satisfaction through ratings.
+
+To further explore insights, these KPIs are visualized across multiple dimensions:
+
+Total Sales by Fat Content (Donut Chart): Understands how fat content impacts sales.
+Total Sales by Item Type (Bar Chart): Highlights item types driving sales performance.
+Fat Content by Outlet for Total Sales (Stacked Column Chart): Compares sales across outlets based on fat content.
+Total Sales by Outlet Establishment (Line Chart): Analyzes how outlet type and age influence sales.
