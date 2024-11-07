@@ -1,6 +1,6 @@
-An interactive Power BI Dashboard built to analyze Blinkit's sales performance, customer satisfaction, and inventory distribution. This comprehensive analysis provides insights into key performance indicators (KPIs) and trends.
+🔍An interactive Power BI Dashboard built to analyze Blinkit's sales performance, customer satisfaction, and inventory distribution. This comprehensive analysis provides insights into key performance indicators (KPIs) and trends.
 
-Key Performance Indicators (KPIs)
+📊Key Performance Indicators (KPIs)
 The dashboard tracks the following KPIs to provide a detailed view of Blinkit's performance:
 
 1)Total Sales: Measures the overall revenue generated.
@@ -11,7 +11,7 @@ The dashboard tracks the following KPIs to provide a detailed view of Blinkit's 
 
 4)Average Rating: Evaluates customer satisfaction through ratings.
 
-To further explore insights, these KPIs are visualized across multiple dimensions:
+💻To further explore insights, these KPIs are visualized across multiple dimensions:
 
 1)Total Sales by Fat Content (Donut Chart): Understands how fat content impacts sales.
 
